@@ -1,7 +1,13 @@
-import { Header } from './components/Header'
+import { Nav } from './components/Header'
+import TicketPage from './page/Ticket.page'
 
 function App() {
-  return <Header />
+  return (
+    <>
+      <Nav />
+      <TicketPage />
+    </>
+  )
 }
 
 export default App
