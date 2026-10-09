@@ -9,6 +9,8 @@ interface TicketInformationProviderProps {
 export const TicketInformationProvider = ({
   children,
 }: TicketInformationProviderProps) => {
+  //chamada HTTP
+
   return (
     <TicketInformationContext.Provider value={undefined}>
       {children}
