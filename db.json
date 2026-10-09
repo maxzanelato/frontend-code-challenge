@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Festival de Música Independente",
+      "description": "Um festival com as melhores bandas do cenário alternativo.",
+      "image": "/event-cover.svg",
+      "date": "2026-12-15T19:00:00-03:00",
+      "location": {
+        "name": "Espaço Cultural",
+        "city": "São Paulo",
+        "state": "SP"
+      },
+      "tickets": [
+        {
+          "id": 1,
+          "name": "Pista",
+          "price": 4990,
+          "availableQuantity": 100
+        },
+        {
+          "id": 2,
+          "name": "VIP",
+          "price": 12000,
+          "availableQuantity": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Festival de Música — Esgotado",
+      "description": "Um festival com as melhores bandas do cenário alternativo.",
+      "image": "/event-cover.svg",
+      "date": "2026-12-15T19:00:00-03:00",
+      "location": {
+        "name": "Espaço Cultural",
+        "city": "São Paulo",
+        "state": "SP"
+      },
+      "tickets": [
+        {
+          "id": 1,
+          "name": "Pista",
+          "price": 4990,
+          "availableQuantity": 0
+        },
+        {
+          "id": 2,
+          "name": "VIP",
+          "price": 12000,
+          "availableQuantity": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Festival de Música — Último ingresso",
+      "description": "Um festival com as melhores bandas do cenário alternativo.",
+      "image": "/event-cover.svg",
+      "date": "2026-12-15T19:00:00-03:00",
+      "location": {
+        "name": "Espaço Cultural",
+        "city": "São Paulo",
+        "state": "SP"
+      },
+      "tickets": [
+        {
+          "id": 1,
+          "name": "Pista",
+          "price": 4990,
+          "availableQuantity": 1
+        }
+      ]
+    }
+  ]
+}

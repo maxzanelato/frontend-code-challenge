@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#0f172a"/>
+  <circle cx="950" cy="160" r="240" fill="#075985"/>
+  <circle cx="1060" cy="510" r="260" fill="#0369a1"/>
+  <path d="M0 520L1200 380V600H0Z" fill="#1e293b"/>
+  <g fill="#fff" font-family="sans-serif">
+    <text x="80" y="230" font-size="32">SYMPLA • MÚSICA AO VIVO</text>
+    <text x="80" y="330" font-size="64" font-weight="bold">Festival Independente</text>
+    <text x="80" y="400" font-size="30">Uma noite para descobrir novos sons</text>
+  </g>
+</svg>
